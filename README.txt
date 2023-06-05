@@ -4,7 +4,7 @@ README
 Links de acesso: 
 
 YouTube -> https://youtu.be/eiK_wp_ptEc
-GitHub ->
+GitHub -> https://github.com/GuiBichaco/Gs-EdgeComputing-1-Semestre-FIAP-2023
 TinkerCad -> https://www.tinkercad.com/things/g0jwMeo7Ttl
 
 
